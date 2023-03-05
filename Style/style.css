@@ -1,0 +1,44 @@
+.titre{
+    color: red;
+}
+
+.maj{
+    color: red;
+}
+
+.Titre{
+    background-color: #800C19;
+    height: 75px;
+}
+
+body{
+    margin: 2px;
+}
+
+.cgd{
+    color:yellow ;
+}
+
+.nav{
+    height: 50px;
+    color: grey;
+    display: inline;
+    width: 100px;
+}
+
+.contact{
+    margin-top: 75px;
+    background-color: green;
+}
+
+main{
+    margin-top: 75px;
+    background-color: green;
+}
+
+.contactbutton{
+    height: 50px;
+    color: grey;
+    display: inline;
+    width: 100px;
+}
